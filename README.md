@@ -1,2 +1,0 @@
-# kidafruits
-Created with CodeSandbox
